@@ -2,8 +2,8 @@ html {
   --monoFont: 'Share Tech Mono', monospace;
   --sansFont: 'Noto Sans', sans-serif;
   --serifFont: 'Montserrat', serif;
-  --bgColor: aliceblue;
-  --fgColor: #263238;
+  --fgColor: aliceblue;
+  --bgColor: #263238;
 }
 
 body {
