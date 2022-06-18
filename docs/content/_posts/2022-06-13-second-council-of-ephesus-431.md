@@ -118,10 +118,10 @@ Cyril also wrote an interesting [letter][Cyril letter] to John of Antioch around
 ## Sources
 
 - González, Justo L. The Story of Christianity: Vol. 1: The Early Church to the Dawn of the Reformation. New York: HarperOne, 2010
-- [https://www.britannica.com/topic/Nestorianism]
--http://www.dailycatholic.org/history/3ecumen3.htm#Formula%20of%20union%20between%20Cyrill%20and%20John%20of%20Antioch
+- [Britanica Nestorianism]: https://www.britannica.com/topic/Nestorianism
+- [Daily Catholic Formula of Union][Formula of Union]
+- [World History Map]: https://www.worldhistory.org/map/
 - Relevant Wikipedia articles
-- https://www.worldhistory.org/map/
 
 
 [Cyril letter]: http://www.dailycatholic.org/history/3ecumen3.htm#Letter%20of%20Cyril%20to%20John%20of%20Antioch%20about%20peace

@@ -58,7 +58,8 @@ How can Christ be both God and man, yet one person?
 
 - Bishop Apollinaris – who was part of the Alexandrine school – wanted to fight Arianism. So he suggested that in Jesus, the second Person of the Trinity (the eternal Word of God, the Logos) took the place of the rational soul in a human body
 
-  ![Regular Body] ![Jesus Body]
+  <img src="https://i.imgur.com/2ngTPLf.png" width="150" alt="Regular body"/>
+  <img src="https://i.imgur.com/gLWA4Hm.png" width="150" alt="Jesus' body"/>
 
 ### Problem with Apollinaris’ suggestion:
 
@@ -100,7 +101,7 @@ How can Christ be both God and man, yet one person?
 - The Alexandrine theologians claimed that this nearly denied the entire Incarnation
   - Nestorius made it seem like God just sort of “rested” inside a regular human instead of actually joining a human nature to His own
 
-  ![Square Circle]
+  <img src="https://i.imgur.com/Htrv2hP.png" width="300" alt="Circle inside a square"/>
 
 - Ex. in the diagram above, the circle rests inside the square. If I move the image of the square, the circle moves too. But does that mean they are united?
   - Can you look at the image and call the whole thing a circle? Or the whole thing a square?
@@ -130,9 +131,9 @@ How can Christ be both God and man, yet one person?
 ## Sources
 
 - González, Justo L. and Catherine Gunsalus González. Heretics for Armchair Theologians. Westminster John Knox Press, 2008.
-- “Cyril and Nestorius.” https://www.ligonier.org/learn/devotionals/cyril-and-nestorius
-- https://www.gotquestions.org/Nestorianism.html
-- https://www.britannica.com/event/councils-of-Ephesus
+- [Cyril and Nestorius](https://www.ligonier.org/learn/devotionals/cyril-and-nestorius)
+- [Got Questions Nestorianism](https://www.gotquestions.org/Nestorianism.html)
+- [Britanica Councils of Ephesus](https://www.britannica.com/event/councils-of-Ephesus)
 
 [Square Circle]: https://i.imgur.com/Htrv2hP.png
 [Regular Body]: https://i.imgur.com/2ngTPLf.png
