@@ -59,6 +59,8 @@ collections:
   writers:
     output: true
 
+excerpt_separator: "<!--more-->"
+
 exclude:
   - CNAME
   - runme.sh
