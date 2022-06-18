@@ -13,7 +13,7 @@ Let's play goft with LSCC youth
 info | Decription
 :--- | :---
 When | Saturday, June 25th
-Where | [Milpitas Goft land]
+Where | [Milpitas Goftland]
 Who | MCC and LSCC Youth
 
 For more details will follow
