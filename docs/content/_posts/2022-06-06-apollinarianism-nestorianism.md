@@ -2,7 +2,7 @@
 layout: post
 title: Apollinarianism & Nestorianism
 category: David_Urbach
-color: c3
+color: c7
 tags: heresies heretics history
 image: https://i.imgur.com/5NWPeoZ.png
 ---

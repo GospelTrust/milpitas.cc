@@ -3,7 +3,7 @@
 layout: post
 title: Second Council of Ephesus 431
 category: David_Urbach
-color: c2
+color: c9
 tags: church-fathers history
 image: https://i.imgur.com/S6Rcq3t.png
 ---
@@ -37,11 +37,13 @@ Churches fight over power and controversy.
 
 - The heresy of Apollinarianism was rejected at the Council of Constantinople, 381
 
+[<img src="https://i.imgur.com/n0OBrLt.png" width="150" />][Gregory of Nazianzus]
+
 ### Gregory of Nazianzus
 
-> [Gregory of Nazianzus], [Epistle 101]
+[Epistle 101] text:
 
-If any believe in Jesus Christ as a human being without human reason, they are the ones devoid of all reason, and unworthy of salvation. For that which he has not taken up he has not saved. He saved that which he joined to his divinity. If only half of Adam had fallen, then it would be possible for Christ to take up and save only half. But if the entire human nature fell, all of it must be united to the Word in order to be saved as a whole.
+> If any believe in Jesus Christ as a human being without human reason, they are the ones devoid of all reason, and unworthy of salvation. For that which he has not taken up he has not saved. He saved that which he joined to his divinity. If only half of Adam had fallen, then it would be possible for Christ to take up and save only half. But if the entire human nature fell, all of it must be united to the Word in order to be saved as a whole.
 
 - Then Patriarch Nestorius of Constantinople caused a controversy by saying that in Jesus there were “two natures and two persons,” a divine and a human of each
 
@@ -118,9 +120,9 @@ Cyril also wrote an interesting [letter][Cyril letter] to John of Antioch around
 ## Sources
 
 - González, Justo L. The Story of Christianity: Vol. 1: The Early Church to the Dawn of the Reformation. New York: HarperOne, 2010
-- [Britanica Nestorianism]: https://www.britannica.com/topic/Nestorianism
+- [Britanica Nestorianism](https://www.britannica.com/topic/Nestorianism)
 - [Daily Catholic Formula of Union][Formula of Union]
-- [World History Map]: https://www.worldhistory.org/map/
+- [World History Map](https://www.worldhistory.org/map/)
 - Relevant Wikipedia articles
 
 
