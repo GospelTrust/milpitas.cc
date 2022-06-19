@@ -12,10 +12,11 @@ Let's go play goft with LSCC youth
 
 info | Decription
 :--- | :---
-When | Saturday, June 25th
+When | Friday, 24th, 2022
 Where | [Milpitas Goftland]
 Who | MCC and LSCC Youth
+Time | 5:30pm - 8:00PM
 
-More details will follow...
+RSVP required to Elena elena.liu@livingstonescc.com | 408-712-2242
 
 [Milpitas Goftland]: https://goo.gl/maps/n1ofBMcybqYTzaJc7
