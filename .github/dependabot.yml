@@ -3,7 +3,7 @@ registries:
   ruby-github:
     type: rubygems-server
     url: https://rubygems.pkg.github.com/octocat/github_api
-    token: ${{secrets.GITHUB_TOKEN}}
+    token: ${{secrets.GHA_TOKEN}}
 updates:
   - package-ecosystem: "bundler"
     directory: "/docs"
