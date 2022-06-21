@@ -17,7 +17,7 @@ When | Saturday, July 9th, 2022
 Where | [Milpitas Christian Church]
 Who | AWANA students, teachers, and parents
 Ceremony Time | 1:00PM - 2:30PM
-Play time | 10:00AM - 5:00PM
+Obstacle Course Time | 10:00AM - 5:00PM
 
 RSVP required to Anna Le chi@thienky.com
 
