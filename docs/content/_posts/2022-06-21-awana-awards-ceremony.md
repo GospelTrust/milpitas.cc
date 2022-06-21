@@ -4,7 +4,7 @@ title: AWANA Awards Ceremony
 category: Antares_Pham
 color: c3
 tags: awana students youth announcement
-image: 
+image: https://i.imgur.com/zD9trp0.png
 ---
 Join us as we celebrate the hard work of our AWANA clubbers with our annual Awards Ceremony! 
 <!--more-->
