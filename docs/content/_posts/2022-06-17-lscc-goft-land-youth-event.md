@@ -2,7 +2,7 @@
 layout: post
 title: LSCC Goftland Youth Event Friday, June 24th
 category: Antares_Pham
-color: c3
+color: c10
 tags: youth announcement
 image: https://i.imgur.com/bqmC3jY.png
 ---
