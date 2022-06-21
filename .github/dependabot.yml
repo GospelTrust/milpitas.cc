@@ -10,4 +10,4 @@ updates:
     insecure-external-code-execution: allow
     registries: "*"
     schedule:
-      interval: "monthly"
+      interval: "daily"
