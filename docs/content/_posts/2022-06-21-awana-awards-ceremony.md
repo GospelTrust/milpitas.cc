@@ -6,7 +6,7 @@ color: c3
 tags: awana students youth announcement
 image: https://i.imgur.com/zD9trp0.png
 ---
-Join us as we celebrate the hard work of our AWANA clubbers with our annual Awards Ceremony! 
+Join us as we celebrate the hard work of our AWANA clubbers with our annual Awards Ceremony and obstacle course! 
 <!--more-->
 ## Details
 Parents are encouraged to attend and celebrate the accomplishment of the clubbers. We will also have obstacle course, fun activities, and lunch for everyone. 
