@@ -6,7 +6,7 @@ color: c3
 tags: youth announcement
 image: https://i.imgur.com/bqmC3jY.png
 ---
-Let's go play goft with LSCC youth
+Let's go play goft with LSCC youth at Golfland at 5:30pm
 <!--more-->
 ## Details
 
