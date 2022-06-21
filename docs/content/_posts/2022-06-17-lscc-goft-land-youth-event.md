@@ -17,6 +17,7 @@ Where | [Milpitas Goftland]
 Who | MCC and LSCC Youth
 Time | 5:30pm - 8:00PM
 
-RSVP required to Elena elena.liu@livingstonescc.com | 408-712-2242
+RSVP is required to [Elena Liu] if you would like to attend the event.
 
 [Milpitas Goftland]: https://goo.gl/maps/n1ofBMcybqYTzaJc7
+[Elena Liu]: elena.liu@livingstonescc.com
