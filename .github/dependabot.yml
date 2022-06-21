@@ -1,0 +1,13 @@
+version: 2
+registries:
+  ruby-github:
+    type: rubygems-server
+    url: https://rubygems.pkg.github.com/octocat/github_api
+    token: ${{secrets.GITHUB_TOKEN}}
+updates:
+  - package-ecosystem: "bundler"
+    directory: "/docs"
+    insecure-external-code-execution: allow
+    registries: "*"
+    schedule:
+      interval: "monthly"
