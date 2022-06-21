@@ -4,9 +4,10 @@ title: AWANA Awards Ceremony
 category: Antares_Pham
 color: c3
 tags: awana students, youth announcement
-image: https://imgur.com/fX6tO5n
+image: https://imgur.com/zD9trp0
 ---
-Join us as we celebrate the hard work of our AWANA participants with our annual Graduation Ceremony! We will also have obstacle course, fun activities, and lunch for everyone!
+Join us as we celebrate the hard work of our AWANA participants with our annual Graduation Ceremony! We will also have obstacle course, fun activities, and lunch for everyone. 
+The awards ceremony will be held in the sanctuary after lunch. 
 <!--more-->
 ## Details
 
