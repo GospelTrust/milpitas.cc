@@ -2,7 +2,7 @@
 layout: post
 title: AWANA Awards Ceremony July 9th @ 2PM
 category: Antares_Pham
-color: c3
+color: c10
 tags: awana students youth announcement
 image: https://i.imgur.com/zD9trp0.png
 ---
