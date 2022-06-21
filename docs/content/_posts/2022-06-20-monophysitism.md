@@ -2,7 +2,7 @@
 layout: post
 title: Monophysitism
 category: David_Urbach
-color: c7
+color: c9
 tags: monophysitism eutychianism eutyches heresies heretics history
 image: https://i.imgur.com/dBtR1u9.png
 ---
