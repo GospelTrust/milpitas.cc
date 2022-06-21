@@ -6,10 +6,10 @@ color: c3
 tags: graduation promotion students youth announcement
 image: https://i.imgur.com/Viiv3Bl.png
 ---
-College or high school graduates and middle school or elementary promotees, your hard work deserve recognition!
+We are honored to celebrate your accomplishment on Sunday July 10th at 10AM.
 <!--more-->
 ## Details
-We are honored to celebrate your accomplishment. 
+College or high school graduates and middle school or elementary promotees, your hard work deserve recognition. Recognition lunch will follow. 
 
 info | Decription
 :--- | :---
