@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AWANA Awards Ceremony Saturday, July 9th 2:00PM
+title: AWANA Awards Ceremony July 9th @ 2PM
 category: Antares_Pham
 color: c3
 tags: awana students youth announcement
