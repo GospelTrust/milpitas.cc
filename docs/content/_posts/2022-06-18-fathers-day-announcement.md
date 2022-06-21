@@ -2,11 +2,11 @@
 layout: post
 title: Father's Day Celebration June 19th, 2022
 category: Antares_Pham
-color: c1
+color: c10
 tags: fathersday announcement
 image: https://i.imgur.com/5oUDrdP.png
 ---
-Join us for Father's day celebration this Sunday June 19th at 10 am
+Join us for Father's day celebration at 10 am.
 <!--more-->
 ## Father's day Program
 
