@@ -6,7 +6,7 @@ color: c3
 tags: graduation promotion students youth announcement
 image: https://i.imgur.com/Viiv3Bl.png
 ---
-We are honored to celebrate your accomplishment on Sunday July 10th at 10AM.
+We are honored to celebrate your accomplishment at 10AM service. 
 <!--more-->
 ## Details
 College or high school graduates and middle school or elementary promotees, your hard work deserve recognition. Recognition lunch will follow. 
