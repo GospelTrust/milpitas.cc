@@ -2,7 +2,7 @@
 layout: post
 title: Father's Day Celebration June 19th, 2022
 category: Antares_Pham
-color: c10
+color: c0
 tags: fathersday announcement
 image: https://i.imgur.com/5oUDrdP.png
 ---
