@@ -1,6 +1,5 @@
 ---
 # album:  https://imgur.com/a/tsOpVm1
-layout: post
 title: Second Council of Ephesus 431
 category: David_Urbach
 color: c7

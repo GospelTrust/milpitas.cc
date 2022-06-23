@@ -1,5 +1,4 @@
 ---
-layout: post
 title: LSCC Goftland Youth Event Friday, June 24th
 category: Antares_Pham
 color: c10

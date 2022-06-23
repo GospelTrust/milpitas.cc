@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Class of 2022 Recognition Sunday July 10th
 category: Antares_Pham
 color: c10

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: AWANA Awards Ceremony July 9th @ 2PM
 category: Antares_Pham
 color: c10

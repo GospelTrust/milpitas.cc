@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Apollinarianism & Nestorianism
 category: David_Urbach
 color: c9

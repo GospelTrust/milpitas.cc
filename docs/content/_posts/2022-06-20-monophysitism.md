@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Monophysitism
 category: David_Urbach
 color: c9
