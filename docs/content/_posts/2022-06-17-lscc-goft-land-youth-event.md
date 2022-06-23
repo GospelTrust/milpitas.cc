@@ -16,7 +16,7 @@ When | Friday, 24th, 2022
 Where | [Milpitas Goftland]
 Who | MCC, ANC, LSCC Youth
 Time | 5:30pm - 8:00PM
-Cost | LSCC covers the entrance fee
+Cost | LSCC covers the entrance fees
 
 RSVP is required.<a href="mailto:elena.liu@livingstonescc.com"> Email to Elena Liu</a> if you would like to attend the event.
 
