@@ -8,7 +8,7 @@ image: https://i.imgur.com/bqmC3jY.png
 Let's go play goft with LSCC youth at Golfland at 5:30pm
 <!--more-->
 ## Details
-
+We will be meeting in the Milpitas Golfland parking lot for a quick dinner before we head in for some mini golf! Please plan for pickup around 8pm.
 info | Decription
 :--- | :---
 When | Friday, 24th, 2022
@@ -17,6 +17,8 @@ Who | MCC and LSCC Youth
 Time | 5:30pm - 8:00PM
 
 RSVP is required.<a href="mailto:elena.liu@livingstonescc.com"> Email to Elena Liu</a> if you would like to attend the event.
+New parents and students, please fill out [participant waiver] and [new student form]
 
 [Milpitas Goftland]: https://goo.gl/maps/n1ofBMcybqYTzaJc7
-
+[participant waiver]: https://livingstonescc.com/byf-waiver
+[new student form]: https://docs.google.com/forms/d/e/1FAIpQLSek0vy7fUqZ8H82Yl-OCmvxqPjP7NYrUbAkzyviO-Pk0OfA3w/viewform
