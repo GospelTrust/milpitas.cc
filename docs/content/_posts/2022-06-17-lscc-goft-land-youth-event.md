@@ -9,6 +9,7 @@ Let's go play goft with LSCC youth at Golfland at 5:30pm.
 <!--more-->
 ## Details
 Parents, We will be meeting in the Milpitas Golfland parking lot for a quick dinner before we head in for some mini golf! Please plan for pickup around 8pm.
+
 info | Decription
 :--- | :---
 When | Friday, 24th, 2022
