@@ -2,7 +2,7 @@
 title: Class of 2022 Recognition Sunday July 10th
 category: Antares_Pham
 color: c10
-tags: graduation promotion students youth announcement
+tags: graduation students youth announcement
 image: https://i.imgur.com/Viiv3Bl.png
 ---
 We are honored to celebrate your accomplishment at 10AM service. 
