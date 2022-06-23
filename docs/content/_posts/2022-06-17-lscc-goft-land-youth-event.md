@@ -18,7 +18,8 @@ Time | 5:30pm - 8:00PM
 Entrance fee | Free
 
 RSVP is required.<a href="mailto:elena.liu@livingstonescc.com"> Email to Elena Liu</a> if you would like to attend the event.
-New parents and students, please fill out [participant waiver] and [new student form]
+
+New parents and students, please fill out [participant waiver] and [new student form].
 
 [Milpitas Goftland]: https://goo.gl/maps/n1ofBMcybqYTzaJc7
 [participant waiver]: https://livingstonescc.com/byf-waiver
