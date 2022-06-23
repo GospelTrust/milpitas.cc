@@ -14,7 +14,7 @@ info | Decription
 :--- | :---
 When | Friday, 24th, 2022
 Where | [Milpitas Goftland]
-Who | MCC and LSCC Youth
+Who | MCC, ANC and LSCC Youth
 Time | 5:30pm - 8:00PM
 Cost | Free
 
