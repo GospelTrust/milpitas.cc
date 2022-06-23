@@ -8,7 +8,7 @@ image: https://i.imgur.com/Viiv3Bl.png
 We are honored to celebrate your accomplishment at 10AM service. 
 <!--more-->
 ## Details
-College or high school graduates and middle school or elementary promotees, your hard work deserve recognition. Recognition lunch will follow. 
+College and high school graduates, middle school and elementary promotees, your hard work deserve recognition. Lunch will follow. 
 
 info | Decription
 :--- | :---
