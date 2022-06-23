@@ -3,7 +3,7 @@
 title: Second Council of Ephesus 431
 category: David_Urbach
 color: c7
-tags: church-fathers history
+tags: church-council church-fathers history
 image: https://i.imgur.com/S6Rcq3t.png
 ---
 Churches fight over power and controversy.
@@ -11,7 +11,7 @@ Churches fight over power and controversy.
 
 ## Background - politics
 
-- Two schools of theological thought centered around the churches of Alexandria and Antioch
+- Two schools of theological thought centered around the churches of [Alexandria] and [Antioch]
 
 - The two schools became bitterly opposed to each other and engaged in nasty politics to undermine each others’ members
 
@@ -88,9 +88,12 @@ Result: declared Bishop Cyril a heretic and reinstated Nestorius
 Result: Cyril and John finally agreed to a “formula of union” in 433
 
 - Nestorius remained excommunicated and deposed. He was slowly abandoned by his former friends, who now found him embarrassing, although his ideas began to spread into the Churches of the East who were outside of Roman borders
+
 - Theologically the two extremes of either side were avoided, but the controversy wasn’t over yet!
+
 - Pelagianism was also officially denounced and condemned
-- Reaffirmed the Nicene Creed (the original, not the modified version from the Council of Constantinople of 381)
+
+- Reaffirmed the Nicene Creed (the original, not the modified version from the [Council of Constantinople] of 381)
 
 ## Formula of Union - 433
 The [text][Formula of Union]:
@@ -101,13 +104,13 @@ the holy scriptures and from
 the tradition of the holy fathers,
 adding nothing at all to the creed put forward by the holy fathers at [Nicaea].
 
-For, as we have just said, that creed is sufficient both for the knowledge of godliness and for the repudiation of all heretical false teaching. We shall speak not presuming to approach the unapproachable; but we confess our own weakness and so shut out those who would reproach us for investigating things beyond the human mind.
+> For, as we have just said, that creed is sufficient both for the knowledge of godliness and for the repudiation of all heretical false teaching. We shall speak not presuming to approach the unapproachable; but we confess our own weakness and so shut out those who would reproach us for investigating things beyond the human mind.
 
-We confess, then, our lord Jesus Christ, the only begotten Son of God, perfect God and perfect man of a rational soul and a body, begotten before all ages from the Father in his godhead, the same in the last days, for us and for our salvation, born of Mary the virgin, according to his humanity, one and the same consubstantial with the Father in godhead and consubstantial with us in humanity, for a union of two natures took place. Therefore we confess one Christ, one Son, one Lord. According to this understanding of the unconfused union, we confess the holy virgin to be the mother of God because God the Word took flesh and became man and from his very conception united to himself the temple he took from her. As to the evangelical and apostolic expressions about the Lord, we know that theologians treat some in common as of one person and distinguish others as of two natures, and interpret the god-befitting ones in connexion with the godhead of Christ and the lowly ones with his humanity.
+> We confess, then, our lord Jesus Christ, the only begotten Son of God, perfect God and perfect man of a rational soul and a body, begotten before all ages from the Father in his godhead, the same in the last days, for us and for our salvation, born of Mary the virgin, according to his humanity, one and the same consubstantial with the Father in godhead and consubstantial with us in humanity, for a union of two natures took place. Therefore we confess one Christ, one Son, one Lord. According to this understanding of the unconfused union, we confess the holy virgin to be the mother of God because God the Word took flesh and became man and from his very conception united to himself the temple he took from her. As to the evangelical and apostolic expressions about the Lord, we know that theologians treat some in common as of one person and distinguish others as of two natures, and interpret the god-befitting ones in connexion with the godhead of Christ and the lowly ones with his humanity.
 
 Cyril also wrote an interesting [letter][Cyril letter] to John of Antioch around the same time, which can be read here. In it he:
-- argues for the legitimacy of calling Mary theotokos “Mother of God”
-- Asserts the importance of affirming the Council of Nicaea and the teachings of the “holy fathers” like Athanasius
+- Argues for the legitimacy of calling Mary [theotokos] “Mother of God”
+- Asserts the importance of affirming the Council of Nicaea and the teachings of the “holy fathers” like [Athanasius]
 
 ## Aftermath
 - A major schism in the Eastern churches which was only patched over with much negotiation, but which eventually caused problems again leading up to the Third Council of Ephesus in 449, which dissolved into violence and error. The Second Council of Ephesus was repudiated by the Council of Chalcedon in 451.
@@ -128,5 +131,10 @@ Cyril also wrote an interesting [letter][Cyril letter] to John of Antioch around
 [Cyril letter]: http://www.dailycatholic.org/history/3ecumen3.htm#Letter%20of%20Cyril%20to%20John%20of%20Antioch%20about%20peace
 [Nicaea]: https://www.britannica.com/topic/Nicene-Creed
 [Formula of Union]: http://www.dailycatholic.org/history/3ecumen3.htm#Formula%20of%20union%20between%20Cyrill%20and%20John%20of%20Antioch
-[Gregory of Nazianzus]: https://docs.google.com/document/d/1uOAYMib56x33cdgsK83x6UwANiCdT3KHCWjr-TkKhHA/edit?pli=1#heading=h.foaip8g4t4k
+[Gregory of Nazianzus]: https://www.biblicalcyclopedia.com/G/gregorius-nazianzenus.html
 [Epistle 101]: https://www.newadvent.org/fathers/3103a.htm
+[Athanasius]: https://www.biblicalcyclopedia.com/A/athanasius.html
+[theotokos]: https://www.biblicalcyclopedia.com/T/theotokos.html
+[Antioch]: https://www.biblicalcyclopedia.com/A/antioch.html
+[Alexandria]: https://www.biblicalcyclopedia.com/A/alexandria.html
+[Council of Constantinople]: https://www.biblicalcyclopedia.com/C/constantinople-councils-of.html

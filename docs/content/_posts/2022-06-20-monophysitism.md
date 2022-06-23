@@ -103,15 +103,10 @@ Jesus is truly God and truly man, but does this mean that He has a divine nature
 ## Sources
 
 - González, Justo L. and Catherine Gunsalus González. Heretics for Armchair Theologians. Westminster John Knox Press, 2008.
-
 - [Eutyches](https://www.britannica.com/biography/Eutyches)
-
 - [Monophysite](https://www.britannica.com/topic/monophysite)
-
 - [Monophysitism](https://www.gotquestions.org/monophysitism.html)
-
 - [A Ligonier panel discusses the question: can monophysites (like in the modern Coptic Church) be considered Christians?](https://www.ligonier.org/learn/conferences/after-darkness-light-2015-national-conference/questions-and-answers-2-2015-national)
-
 - [Does Jesus have two natures or one?](https://www.ligonier.org/posts/does-jesus-have-two-natures-or-one)
 
 [Apollinarianism]: /david_urbach/2022/06/06/apollinarianism-nestorianism
