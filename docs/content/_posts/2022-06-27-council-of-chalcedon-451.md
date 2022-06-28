@@ -82,11 +82,11 @@ image: https://i.imgur.com/2jYwGzM.png
 
   - Arianism - because if Christ is less than God, then He can’t reconcile us to God
 
-  - [Apollinarianism] - because Christ needs to be 100% human in order to be our Mediator**
+  - [Apollinarianism] - because Christ needs to be 100% human in order to be our Mediator
 
   - [Nestorianism] – because if Christ has two separate natures, then only the human nature atoned for us, which is a problem because a single human nature can only atone for a single human, not for all Christians!
 
-  - [Eutychianism] - because if Christ is a mixed hybrid of divine and human, then He isn’t truly either one and thus cannot be our substitute on the cross**
+  - [Eutychianism] - because if Christ is a mixed hybrid of divine and human, then He isn’t truly either one and thus cannot be our substitute on the cross
 
 - Tries to make very clear that Jesus is exactly the eternal Son of God who became incarnate as a man
 
