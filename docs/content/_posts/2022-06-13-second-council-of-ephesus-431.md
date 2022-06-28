@@ -3,7 +3,7 @@
 title: Second Council of Ephesus 431
 category: David_Urbach
 color: c7
-tags: church-council church-fathers history
+tags: ephesus church-council church-fathers history
 image: https://i.imgur.com/S6Rcq3t.png
 ---
 Churches fight over power and controversy.
