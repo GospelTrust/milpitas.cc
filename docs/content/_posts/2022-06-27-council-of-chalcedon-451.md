@@ -33,7 +33,7 @@ image: https://i.imgur.com/2jYwGzM.png
 
 - Largest and best-documented of the early councils, it was attended by 520 bishops
 
-  ![City of Chalcedon]
+  <img src="https://i.imgur.com/oDHbYUB.jpg" width="100%" />
 
 - City of Chalcedon is opposite Constantinople/Byzantium – see this map where it is spelled Kalchedon
 
@@ -163,7 +163,6 @@ Jesus Christ’s divine and human natures:
 [Nestorianism]: https://milpitas.cc/2022/06/06/apollinarianism-nestorianism
 [Apollinarianism]: https://milpitas.cc/2022/06/06/apollinarianism-nestorianism
 [Eutychianism]: https://milpitas.cc/hashtags/eutychianism
-[City of Chalcedon]: https://i.imgur.com/oDHbYUB.jpg
 [Pope Leo’s Tome]: https://www.newadvent.org/fathers/3604028.htm
 [Definition of Chalcedon]: https://www.ligonier.org/learn/articles/the-chalcedonian-definition-of-the-faith
 [The key section]: https://en.wikipedia.org/wiki/Chalcedonian_Definition#Content
