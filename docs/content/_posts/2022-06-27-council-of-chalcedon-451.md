@@ -33,7 +33,7 @@ image: https://i.imgur.com/2jYwGzM.png
 
 - Largest and best-documented of the early councils, it was attended by 520 bishops
 
-  <img src="https://i.imgur.com/oDHbYUB.jpg" width="100%" />
+  <img src="https://i.imgur.com/oDHbYUB.jpg" width="100%" style="float: right"/>
 
 - City of Chalcedon is opposite Constantinople/Byzantium – see this map where it is spelled Kalchedon
 
@@ -58,7 +58,7 @@ image: https://i.imgur.com/2jYwGzM.png
 
   - These letters argued that the divine and human natures of Christ were united to each other, not completely separate and closed off from each other
 
-  <img src="https://i.imgur.com/mSmBcLX.png" width=150>
+  <img src="https://i.imgur.com/mSmBcLX.png" style="float: right" width=150>
 
 - [Pope Leo’s Tome] was finally read and formally approved
 
@@ -110,7 +110,7 @@ Full Text of the [Definition of Chalcedon].
 
 - Since many of the dissenting [Monophysite][Monophysitism] churches were still within Roman borders, some emperors tried to find compromises that would appease both them and the Chalcedonians (the majority who accepted the _Council of Chalcedon_)
 
-  <img src="https://i.imgur.com/0QVArAY.png" width=200>
+  <img src="https://i.imgur.com/0QVArAY.png" width=150 style="float: right">
 
   - These attempts all failed.
 
