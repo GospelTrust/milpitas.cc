@@ -1,5 +1,5 @@
 ---
-title: Athanasius of Alexandria (296-373 A.D.)
+title: Athanasius of Alexandria (296-373)
 category: David_Urbach
 color: c8
 tags: athanasius arianism post-nicene church-fathers history
@@ -142,7 +142,7 @@ Doctor of the Western Church, Bishop of Alexandria, Opponent of Arianism, Friend
 
 - For close to 50 years he was THE figurehead for orthodox, Nicene Christianity, defending the full divinity of Christ against the Arians. His bravery combined with his pastoral spirit made for a very powerful witness that has lasted long beyond his lifetime
 
-- The [Athanasian Creed](https://www.britannica.com/topic/Athanasian-Creed)is named after him but probably not written by him, as there is no mention of it until the 6th century. It does defend the doctrine of the Trinity in very thorough terms (as that [Saint Patrick video](https://youtu.be/KQLfgaUoQCw) demonstrates humorously!)
+- The [Athanasian Creed](https://www.britannica.com/topic/Athanasian-Creed) is named after him but probably not written by him, as there is no mention of it until the 6th century. It does defend the doctrine of the Trinity in very thorough terms (as that [Saint Patrick video](https://youtu.be/KQLfgaUoQCw) demonstrates humorously!)
 
 ## Sources
 
