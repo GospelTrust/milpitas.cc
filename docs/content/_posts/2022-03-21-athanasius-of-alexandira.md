@@ -2,7 +2,7 @@
 title: Athanasius of Alexandria (296-373)
 category: David_Urbach
 color: c8
-tags: athanasius arianism post-nicene church-fathers history
+tags: athanasius arianism post-nicene church-fathers heresies history
 image: https://i.imgur.com/K8qo1Ic.png
 ---
 Doctor of the Western Church, Bishop of Alexandria, Opponent of Arianism, Friend of Monks!
@@ -36,7 +36,7 @@ Doctor of the Western Church, Bishop of Alexandria, Opponent of Arianism, Friend
 
 - Present at the **First Council of Nicaea**  as the secretary to Bishop  **Alexander** of Alexandria, the one who first fought with **Arius**
 
-- From early on he admired the desert monks like Pachomius and Anthony and was in close contact with them. Wrote_The Life of Saint Anthony_which popularized **Anthony the Great**  and the desert hermits; claims to have visited  **Anthony** many times
+- From early on he admired the desert monks like Pachomius and Anthony and was in close contact with them. Wrote [The Life of Saint Anthony] which popularized **Anthony the Great**  and the desert hermits; claims to have visited  **Anthony** many times
 
   - The monks tended to reject **Arianism** very strongly too
 
@@ -151,3 +151,4 @@ Doctor of the Western Church, Bishop of Alexandria, Opponent of Arianism, Friend
 - [St. Athanasius](https://www.britannica.com/biography/Saint-Athanasius#ref449)
 
 [St. Anthony]: https://www.britannica.com/biography/Saint-Anthony-of-Egypt
+[The Life of Saint Anthony]: https://dmdhist.sitehost.iu.edu/antony.htm
