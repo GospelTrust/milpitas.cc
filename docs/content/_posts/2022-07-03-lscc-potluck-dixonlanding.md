@@ -3,7 +3,7 @@ title: Softball and Surprise Potluck July 4th 10am
 category: Antares_Pham
 color: c10
 tags: softball & informal pot luck at Dixon Landing Park
-image: https://imgur.com/qXACilP
+image: https://i.imgur.com/qXACilP.png
 ---
 Come join us on Monday, July 4th for softball and potluck at Dixon Landing Park! Bring enough food to share. Stay for a special surprise! Invite your friends!
 <!--more-->
