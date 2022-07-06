@@ -1,11 +1,12 @@
 ---
+published: false
 title: LSCC Golfland Youth Event Friday, June 24th
 category: Antares_Pham
 color: c10
 tags: youth announcement
 image: https://i.imgur.com/bqmC3jY.png
 ---
-Let's go play golf with LSCC youth at Golfland at 5:30pm. 
+Let's go play golf with LSCC youth at Golfland at 5:30pm.
 <!--more-->
 ## Details
 Parents, We will be meeting in the Milpitas Golfland parking lot for a quick dinner before we head in for some mini golf! Please plan for pickup around 8pm.

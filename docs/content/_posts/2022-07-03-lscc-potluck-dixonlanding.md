@@ -1,4 +1,5 @@
 ---
+published: false
 title: LSCC Softball and Surprise Potluck July 4th 10am
 category: Antares_Pham
 color: c10
