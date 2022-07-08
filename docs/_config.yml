@@ -54,6 +54,7 @@ acn:
     - Share+Tech+Mono
     - Material+Icons
 
+future: true
 collections_dir: content
 collections:
   writers:
