@@ -9,9 +9,9 @@ tags: outline bible study galatians
 Galatians outline and timeline.
 <!--more-->
 
-## Outline
+## The Gospel of Grace & Justification
 
-### Personal: The Gospel of Grace, Justification by Faith Defended (1:1-2:21)
+### Personal: Justification by Faith Defended (1:1-2:21)
 
 Address | Topic
 :--- | :---
@@ -20,7 +20,7 @@ Address | Topic
 2:1-10 | The Gospel of Grace Was Approved by the Church in Jerusalem
 2:11-21 | The Gospel of Grace Was Vindicated in the Rebuke of Peter, the Chief of the Apostles
 
-### Doctrinal: The Gospel of Grace, Justification by Faith Explained (3:1–4:31)
+### Doctrinal: Justification by Faith Explained (3:1–4:31)
 
 Address | Topic
 :--- | :---
@@ -29,12 +29,12 @@ Address | Topic
 3:10–4:11 | Justification Is by Faith, Not by the Law
 4:12-20 | The Galatians Received Their Blessings by Faith, Not by Law
 4:21-31 | Law and Grace Are Mutually Exclusive
-5:1–6:18 | Practical: The Gospel of Grace, Justification by Faith Applied
 
-### The Position of Liberty: Stand Fast (5:1-12)
+### Practical: Justification by Faith Applied (5:1–6:18)
 
 Address | Topic
 :--- | :---
+5:1-12 | The Position of Liberty: Stand Fast
 5:13-15 | The Practice of Liberty: Serve and Love One Another
 5:16-26 | The Power of Liberty: Walk by the Spirit
 6:1-10 | The Performance of Liberty: Do Good to All Men
