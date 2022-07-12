@@ -3,7 +3,8 @@ title: Apollinarianism & Nestorianism
 category: David_Urbach
 color: c9
 tags: apollinarianism nestorianism heresies heretics history
-image: https://i.imgur.com/5NWPeoZ.png
+image: https://i.imgur.com/5NWPeoZl.png
+thumb: https://i.imgur.com/5NWPeoZm.png
 ---
 How can Christ be both God and man, yet one person?
 <!--more-->

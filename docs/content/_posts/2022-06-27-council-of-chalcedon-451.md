@@ -3,7 +3,8 @@ title: Council of Chalcedon 451
 category: David_Urbach
 color: c7
 tags: chalcedon church-council church-fathers history
-image: https://i.imgur.com/2jYwGzM.png
+image: https://i.imgur.com/2jYwGzMl.png
+thumb: https://i.imgur.com/2jYwGzMm.png
 ---
 “The Word became flesh.” (John 1:14)
 <!--more-->

@@ -31,7 +31,7 @@ Fifth Ecumenical Council
 
 - Emperor **Justinian I** came to the throne in Constantinople – the greatest of the Eastern Roman emperors, he initiated a renaissance in Eastern strength, architecture, and the arts. He rebuilt the church in Constantinople into the great Hagia Sophia that we know today (minus the Muslim elements). He even reconquered Italy and North Africa! And he was determined to add to church unity to his many victories
 
-  <img src="https://i.imgur.com/AQWYKikl.png" />
+  <img src="https://i.imgur.com/AQWYKikl.png" width="100%" />
 
 <img src="https://i.imgur.com/1UUUQAzm.jpg" width=150 style="float: right" />
 
@@ -71,7 +71,7 @@ Fifth Ecumenical Council
 
   - The gist is that they reject Nestorianism even more strongly by insisting on the unity of the person of Christ in his two natures. They condemn anyone who believes that there were “two Sons or two Christs.”
 
-  - They also condemn anyone who denies that Mary is _theotokos_(“God-Bearer” or “Mother of God”). They also call her “the holy and glorious ever-virgin Mary.” They condemn anyone who would call her only the mother of a man or the Christ-bearer, because that would suggest that Christ is not God.
+  - They also condemn anyone who denies that Mary is _theotokos_ (“God-Bearer” or “Mother of God”). They also call her “the holy and glorious ever-virgin Mary.” They condemn anyone who would call her only the mother of a man or the Christ-bearer, because that would suggest that Christ is not God.
 
 - It rests its authority like this:
 

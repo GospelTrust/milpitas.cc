@@ -3,7 +3,8 @@ title: The Great Cappadocians
 category: David_Urbach
 color: c8
 tags: cappadocians macrina basil-the-great gregory-of-nyssa gregory-of-nazianzus post-nicene church-fathers history
-image: https://i.imgur.com/OUudnET.png
+image: https://i.imgur.com/OUudnETl.png
+thumb: https://i.imgur.com/OUudnETn.png
 ---
 Three Greek Fathers and their sister
 <!--more-->

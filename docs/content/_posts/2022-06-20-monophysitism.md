@@ -3,7 +3,8 @@ title: Monophysitism
 category: David_Urbach
 color: c9
 tags: monophysitism eutychianism heresies heretics history
-image: https://i.imgur.com/dBtR1u9.png
+image: https://i.imgur.com/dBtR1u9l.png
+thumb: https://i.imgur.com/dBtR1u9m.png
 ---
 Jesus only has a divine nature, not a human one too
 <!--more-->

@@ -3,7 +3,8 @@ title: Athanasius of Alexandria (296-373)
 category: David_Urbach
 color: c8
 tags: athanasius arianism post-nicene church-fathers heresies history
-image: https://i.imgur.com/K8qo1Ic.png
+image: https://i.imgur.com/K8qo1Icl.png
+thumb: https://i.imgur.com/K8qo1Icm.png
 ---
 Doctor of the Western Church, Bishop of Alexandria, Opponent of Arianism, Friend of Monks!
 <!--more-->
