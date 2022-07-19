@@ -168,3 +168,4 @@ Jesus Christ’s divine and human natures:
 [Definition of Chalcedon]: https://www.ligonier.org/learn/articles/the-chalcedonian-definition-of-the-faith
 [The key section]: https://en.wikipedia.org/wiki/Chalcedonian_Definition#Content
 [Theotokos]: https://en.wikipedia.org/wiki/Theotokos
+[Tertullian]: https://en.wikipedia.org/wiki/Tertullian
