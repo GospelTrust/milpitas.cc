@@ -2,7 +2,7 @@
 title: Ambrose of Milan (339-397)
 category: David_Urbach
 color: c8
-tags: post-nicene church-fathers history
+tags: arian post-nicene church-fathers history
 image: https://i.imgur.com/n2XPkGul.png
 thumb: https://i.imgur.com/n2XPkGum.png
 ---
@@ -25,7 +25,7 @@ Bishop, Doctor of the Catholic Church
 
 - What do you do?
 
-### An unwanted change of career
+## An unwanted change of career
 
 - If you were Ambrose, governor of Milan, you attend the church election and speak to the crowd, calming their tempers and restoring order
 
@@ -47,7 +47,7 @@ Bishop, Doctor of the Catholic Church
 
   - They often emphasize morality, self-denial, and attack social abuses
 
-### Church and State
+## Church and State
 
 - A Gothic warband crossed into Italy and ravaged the region; refugees poured into Milan, but many people in the countryside were captured. The Goths demanded a large ransom for their captives.
 
@@ -85,7 +85,7 @@ Bishop, Doctor of the Catholic Church
 - AD 397 - Easter Sunday, Ambrose died
 
 
-### Major Works \[[link](https://www.newadvent.org/fathers/)]
+## Major Works \[[link](https://www.newadvent.org/fathers/)]
 
 [**Duties of the Clergy**](https://www.newadvent.org/fathers/3401.htm)
 
@@ -93,7 +93,7 @@ Bishop, Doctor of the Catholic Church
 
 - Informed by classical ideals, especially from Cicero’s_De officiis_
 
-### Legacy
+## Legacy
 
 - He brought a lot of Eastern theology, like that of the Cappadocians, over to the Latin-speaking West, because he knew the Greek language and literature very well
 
@@ -113,7 +113,7 @@ Bishop, Doctor of the Catholic Church
 
 - He baptized a young man named Augustine, who will soon become one of the most famous men in all of Christian history
 
-### Sources
+## Sources
 
 - González, Justo L. _The Story of Christianity: Vol. 1: The Early Church to the Dawn of the Reformation_. New York: HarperOne, 2010.
 - [Evaluations and interpretations of St. Ambrose](https://www.britannica.com/biography/Saint-Ambrose/Evaluations-and-interpretations)
