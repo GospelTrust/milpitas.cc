@@ -147,6 +147,6 @@ _A modern Benedictine monk restoring a medieval book in Italy._
 
 ### Sources
 
-- [Saint Benedict | Biography, Rule, Patron Saint Of, Death, & Facts | Britannica](https://www.britannica.com/biography/Saint-Benedict-of-Nursia)
+- [Saint Benedict: Biography, Rule, Patron Saint Of, Death, & Facts](https://www.britannica.com/biography/Saint-Benedict-of-Nursia)
 
 - González, Justo L. _The Story of Christianity: Vol. 1: The Early Church to the Dawn of the Reformation_. New York: HarperOne, 2010
