@@ -93,17 +93,17 @@ _The restored monastery at Monte Cassino today_
 
 - Monks prayed 8 times a day:
 
-  No  | Latin    | English                | Hour  | Practice
-  --- | ---      | ---                    | ---   | ---
-  0   | vigil    | eighth hour            | 2 am  |
-  1   | martins  | nightime               | 3 am  | Christ the Savior
-  2   | lauds    | early morning          | 5 am  |
-  3   | prime    | first hour of daylight | 6 am  | Christ before Pilate
-  4   | terce    | third hour             | 9 am  | Holy Spirit
-  5   | sext     | noon                   | 12 pm | Crucifixion
-  6   | nones    | ninth hour             | 3 pm  |
-  7   | vespers  | sunset evening         | 6 pm  | Glorification of God
-  8   | compline | end of the day         | 7 pm  | Harrowing of Hell
+  No  | Latin    | English                | Practice
+  --- | ---      | ---                    | ---
+  0   | vigil    | eighth hour (2 am)     |
+  1   | martins  | nightime (3 am)        | Christ the Savior
+  2   | lauds    | early morning (5 am)   |
+  3   | prime    | first hour of daylight | Christ before Pilate
+  4   | terce    | third hour (9 am)      | Holy Spirit
+  5   | sext     | noon                   | Crucifixion
+  6   | nones    | ninth hour (3 pm)      |
+  7   | vespers  | sunset evening (6 pm)  | Glorification of God
+  8   | compline | end of the day (7 pm)  | Harrowing of Hell
 
   - This practice eventually became pretty normal for wealthy devout people throughout all of medieval Europe, monks or not
 
