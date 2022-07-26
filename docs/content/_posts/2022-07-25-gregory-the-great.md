@@ -1,5 +1,5 @@
 ---
-title: Gregory I "The Great" (c. 540-604)
+title: St. Gregory I "The Great" (c. 540-604)
 category: David_Urbach
 color: c8
 tags: post-nicene church-fathers history

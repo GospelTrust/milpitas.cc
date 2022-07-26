@@ -182,7 +182,7 @@ Latin bishop, theologian, Doctor of the Church, the biggest name in post-New Tes
 
 - 411 - A public debate over **Donatism** in Carthage – attended by a representative of the emperor – was decided in **Augustine’s** favor, and restrictions were put on the **Donatists**
 
-- 430 - died while the city of Hippo was besieged by **Vandals**, another barbarian group that had [crossed](https://upload.wikimedia.org/wikipedia/commons/f/fd/Vandals_Migration_pt.gif)over from Spain to invade North Africa. The **Vandals** followed the **Arian** heresy.
+- 430 - died while the city of Hippo was besieged by **Vandals**, another barbarian group that had [crossed](https://upload.wikimedia.org/wikipedia/commons/f/fd/Vandals_Migration_pt.gif) over from Spain to invade North Africa. The **Vandals** followed the **Arian** heresy.
 
 ## Major Works
 

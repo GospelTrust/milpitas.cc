@@ -1,5 +1,5 @@
 ---
-title: John Chrysostom (347-407)
+title: St. John Chrysostom (347-407)
 category: David_Urbach
 color: c8
 tags: post-nicene church-fathers history

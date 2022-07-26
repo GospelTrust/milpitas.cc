@@ -1,5 +1,5 @@
 ---
-title: Ambrose of Milan (339-397)
+title: St. Ambrose of Milan (339-397)
 category: David_Urbach
 color: c8
 tags: arian post-nicene church-fathers history

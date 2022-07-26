@@ -1,5 +1,5 @@
 ---
-title: Athanasius of Alexandria (296-373)
+title: St. Athanasius of Alexandria (296-373)
 category: David_Urbach
 color: c8
 tags: athanasius arianism post-nicene church-fathers heresies history
