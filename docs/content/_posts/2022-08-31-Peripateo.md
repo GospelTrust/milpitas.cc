@@ -18,7 +18,7 @@ Vision | A relational movement that connects older brothers/sisters in Christ wi
 Who | We are a team of people who believe in this vision and are working to impact our churches through cross-cultural relationships: Revive Presbyterian Church, Chinese for Christ Church, Milpitas Christian Church, Adonai Nissi Church, the Spectrum Church
 What | Watch [this video] to learn more about the program
 When | Register by August 14th, 2022
-Who | High school and college students
+Who | High school students, college students, and young professionals
 
 [this video]: https://youtu.be/-MSyQXEBCrg
 [Click here]: https://forms.gle/cxXGBrndmEU4mChA6
