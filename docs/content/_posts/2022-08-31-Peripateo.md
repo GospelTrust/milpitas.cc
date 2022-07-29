@@ -6,7 +6,7 @@ color: c10
 tags: Peripateo discipleship cohort 2022-23
 image: https://i.imgur.com/HW0RGdN.png
 ---
-Program for high school and college students. [Click here] to register for the next cohort as either a mentor or a mentee and help establish our faith, and walk in the Lord. 
+This program is for high school and college students, and young professionals. [Click here] to register for the next cohort as either a mentor or a mentee and help establish our faith, and walk in the Lord. 
 <!--more-->
 ## Details
 Peripateo means to walk. How do you know you're walking in the right way? Do you struggle to discern what's godly and worldly? Are the things your friends, and even teachers tell you biblical? Are the things you hear on social media the truth? 
