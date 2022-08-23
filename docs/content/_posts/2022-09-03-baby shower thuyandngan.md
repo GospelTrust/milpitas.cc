@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Thuy and Ngan Baby Shower
 category: Antares_Pham
 color: c10
