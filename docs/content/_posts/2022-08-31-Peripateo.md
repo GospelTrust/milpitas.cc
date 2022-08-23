@@ -5,7 +5,7 @@ category: Antares_Pham
 color: c10
 tags: Peripateo discipleship cohort 2022-23
 image: https://i.imgur.com/HW0RGdNl.png
-thumb: https://i.imgur.com/HW0RGdNm.png
+
 ---
 This program is for high school, college students, and young professionals.
 <!--more-->
