@@ -2,7 +2,7 @@
 title: Churches of the East
 category: David_Urbach
 color: c8
-tags: eastern history
+tags: eastern church history
 image: https://i.imgur.com/K6pQCFcl.png
 thumb: https://i.imgur.com/K6pQCFcm.png
 ---
