@@ -130,5 +130,5 @@ _Pictured: Aksum Chapel of the Ark of the Covenant_
 
 [Arianism]: https://docs.google.com/document/u/0/d/1-CWca2mP-ATf-4Vtg8Q0Bfj_Dbb_PnYaIBV_hcOpj-I/edit
 [Athanasius]: {% post_url 2022-03-21-athanasius-of-alexandira %}
-[Council of Chalcedon]: {% 2022-06-27-council-of-chalcedon-451 %}
+[Council of Chalcedon]: {% post_url 2022-06-27-council-of-chalcedon-451 %}
 [monophysites]: {% post_url 2022-06-20-monophysitism %}
