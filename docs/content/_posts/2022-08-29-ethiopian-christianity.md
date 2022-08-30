@@ -3,10 +3,10 @@ title: Ethiopian Christianity
 category: David_Urbach
 color: c8
 tags: eastern church history
-image: https://i.imgur.com/g4FmviKl.png
-thumb: https://i.imgur.com/g4FmviKm.png
+image: https://i.imgur.com/rrmBXQYl.png
+thumb: https://i.imgur.com/rrmBXQYm.png
 ---
-Ethiopian Christianity
+The Ethiopian Orthodox Tewahedo Church is the largest of the Oriental Orthodox Churches.
 <!--more-->
 
 <img src="https://lh4.googleusercontent.com/x8GpokuG61-uS08up1e8xTjtezdBNiBunJ9gqgVhZo82PDviq_AogPnatYMxDHoMVSpgVVCk5zzgbxNQN2grR8eBJhErHk5FFy-0gq6D6zKC1k74hL1Z9wAgrC0DfPTUmgqGvoj9t6xp6VovoJcRnr0" width="100%" />
@@ -51,7 +51,7 @@ _Christianity south of Egypt in the kingdom of Aksum_
 
 - C. end of the 5th century – Syrian monks bring monasticism to Ethiopia and begin translating the Bible into Ge’ez, one of the local languages which now exists only as the liturgical language of the **Ethiopian Orthodox Church** (like their version of Latin)
 
-- 451 – the **EOC** follows the lead of the **Coptic Church of Alexandria** in rejecting the [Council of Chalcedon's] decision on the two equal natures of Jesus Christ. The **EOC** becomes **miaphysite**, asserting that the mystery of the Incarnation enables Jesus to have one nature in which the divine and human are equally present. They get labeled [monophysites] by Chalcedonian churches
+- 451 – the **EOC** follows the lead of the **Coptic Church of Alexandria** in rejecting the [Council of Chalcedon]'s decision on the two equal natures of Jesus Christ. The **EOC** becomes **miaphysite**, asserting that the mystery of the Incarnation enables Jesus to have one nature in which the divine and human are equally present. They get labeled [monophysites] by Chalcedonian churches
 
   - This is why the **EOC** added the word _tewahedo_ to their name (**Ethiopian Orthodox Tewahedo Church**), because it means “unity” and is meant to express their belief in Jesus’ singular nature that unites the divine with the human
 
@@ -127,3 +127,8 @@ _Pictured: Aksum Chapel of the Ark of the Covenant_
 - [Ethiopian Orthodox Tewahedo Church](https://www.britannica.com/topic/Ethiopian-Orthodox-Tewahedo-Church#ref255914)
 - [Haile Selassie I](https://www.britannica.com/biography/Haile-Selassie-I)
 - [Rock Hewn Churches, Lalibela](https://en.wikipedia.org/wiki/Rock-Hewn_Churches,_Lalibela)
+
+[Arianism]: https://docs.google.com/document/u/0/d/1-CWca2mP-ATf-4Vtg8Q0Bfj_Dbb_PnYaIBV_hcOpj-I/edit
+[Athanasius]: {% post_url 2022-03-21-athanasius-of-alexandira %}
+[Council of Chalcedon]: {% 2022-06-27-council-of-chalcedon-451 %}
+[monophysites]: {% post_url 2022-06-20-monophysitism %}
