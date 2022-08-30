@@ -3,8 +3,8 @@ title: Ethiopian Christianity
 category: David_Urbach
 color: c8
 tags: eastern church history
-image: https://i.imgur.com/K6pQCFcl.png
-thumb: https://i.imgur.com/K6pQCFcm.png
+image: https://i.imgur.com/g4FmviKl.png
+thumb: https://i.imgur.com/g4FmviKm.png
 ---
 Ethiopian Christianity
 <!--more-->
@@ -127,8 +127,3 @@ _Pictured: Aksum Chapel of the Ark of the Covenant_
 - [Ethiopian Orthodox Tewahedo Church](https://www.britannica.com/topic/Ethiopian-Orthodox-Tewahedo-Church#ref255914)
 - [Haile Selassie I](https://www.britannica.com/biography/Haile-Selassie-I)
 - [Rock Hewn Churches, Lalibela](https://en.wikipedia.org/wiki/Rock-Hewn_Churches,_Lalibela)
-
-[Athanasius]: {% post_url 2022-03-21-athanasius-of-alexandira %}
-[Arianism]: https://docs.google.com/document/u/0/d/1-CWca2mP-ATf-4Vtg8Q0Bfj_Dbb_PnYaIBV_hcOpj-I/edit
-[Council of Chalcedon's]: {% 2022-06-27-council-of-chalcedon-451 %}
-[monophysites]: {% post_url 2022-06-20-monophysitism %}
