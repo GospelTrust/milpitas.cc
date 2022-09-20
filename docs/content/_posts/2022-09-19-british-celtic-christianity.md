@@ -168,12 +168,12 @@ Britain had only ever subdued the region we now call England but never truly con
 ## Sources
 
 - González, Justo L. _The Story of Christianity: Vol. 1: The Early Church to the Dawn of the Reformation_. New York: HarperOne, 2010.
-- https://www.britannica.com/biography/Saint-Patrick
-- https://www.britannica.com/place/Ireland/Early-Christianity#ref148383
-- https://dcc.dickinson.edu/bede-historia-ecclesiastica/intro/christianity-in-anglo-saxon-england
-- https://www.britannica.com/biography/Saint-Columba
-- https://www.gotquestions.org/Celtic-Christianity.html
-- https://www.britannica.com/biography/Saint-Ninian
+- [St. Patrick](https://www.britannica.com/biography/Saint-Patrick)
+- [Early Christianity](https://www.britannica.com/place/Ireland/Early-Christianity#ref148383)
+- [CHRISTIANITY IN ANGLO-SAXON ENGLAND](https://dcc.dickinson.edu/bede-historia-ecclesiastica/intro/christianity-in-anglo-saxon-england)
+- [St. Columba](https://www.britannica.com/biography/Saint-Columba)
+- [What is Celtic Christianity?](https://www.gotquestions.org/Celtic-Christianity.html)
+- [St. Ninian](https://www.britannica.com/biography/Saint-Ninian)
 
 [Augustine of Hippo’s]: {% post_url 2022-05-09-augustine %}
 [Pope Gregory I]: {% post_url 2022-07-25-gregory-the-great %}
