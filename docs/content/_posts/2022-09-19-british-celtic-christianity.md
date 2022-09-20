@@ -50,7 +50,7 @@ Britain had only ever subdued the region we now call England but never truly con
 
 - There are some unverifiable references to early Christian saints in Ireland but no clear writings about them
 
-- By legend **Saint Ninian** (360, Britain—died_c._ 432) was the first missionary to Scotland, although very little is known about him
+- By legend **Saint Ninian** (360, Britain—died _c._ 432) was the first missionary to Scotland, although very little is known about him
 
 - 431 - **Pope Celestine** sends the monk **Palladius** to be the first bishop of Ireland, although we do not know what sort of success he had or how many Irish Christians there were at the time. Apparently a very small minority.
 
