@@ -1,11 +1,11 @@
 ---
-published: true
+published: false
 title: Peripateo Discipleship Registration
 category: Antares_Pham
 color: c10
 tags: Peripateo discipleship cohort 2022-23
-image: https://i.imgur.com/HW0RGdN.png
-
+thumb: https://i.imgur.com/HW0RGdNm.png
+image: https://i.imgur.com/HW0RGdNl.png
 ---
 This program is for high school, college students, and young professionals.
 <!--more-->
