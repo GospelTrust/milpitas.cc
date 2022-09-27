@@ -3,8 +3,8 @@ title: British & Celtic Christianity
 category: David_Urbach
 color: c8
 tags: british celtic church history
-image: https://i.imgur.com/Ad3gsePl.png
-thumb: https://i.imgur.com/Ad3gsePm.png
+image: https://i.imgur.com/KwGrQm4l.png
+thumb: https://i.imgur.com/KwGrQm4m.png
 ---
 Britain had only ever subdued the region we now call England but never truly controlled Wales, Scotland, and Ireland
 <!--more-->
